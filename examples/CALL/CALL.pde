@@ -1,6 +1,6 @@
 /*
  * Tone Arduino 自動撥號系統
- * By 游照臨2016/02/25
+ * By StevenYu2016/02/25
  * 
  * 參考資料:
  * http://rogue-code.googlecode.com/files/Arduino-Library-Tone.zip
